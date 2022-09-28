@@ -1,0 +1,5 @@
+##### Requirements without specific versions #####
+torch
+numpy
+pandas
+transformers sacremoses
